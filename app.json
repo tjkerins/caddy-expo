@@ -1,1 +1,1 @@
-{ "expo": { "name": "Caddy", "slug": "caddy", "ios": { "infoPlist": { "NSLocationWhenInUseUsageDescription": "Caddy uses your location to measure distance to the green." } } } }
+{ "expo": { "name": "Caddy", "slug": "caddy", "sdkVersion": "58.0.0", "ios": { "infoPlist": { "NSLocationWhenInUseUsageDescription": "Caddy uses your location to measure distance to the green." } } } }

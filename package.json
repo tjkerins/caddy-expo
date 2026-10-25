@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
-    "expo": "*",
+    "expo": "~58.0.0",
     "expo-location": "*",
     "react-native-maps": "*",
     "@react-native-async-storage/async-storage": "*"
