@@ -1,0 +1,1 @@
+{ "expo": { "name": "Caddy", "slug": "caddy", "ios": { "infoPlist": { "NSLocationWhenInUseUsageDescription": "Caddy uses your location to measure distance to the green." } } } }

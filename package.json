@@ -1,0 +1,11 @@
+{
+  "name": "caddy",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "*",
+    "expo-location": "*",
+    "react-native-maps": "*",
+    "@react-native-async-storage/async-storage": "*"
+  }
+}
